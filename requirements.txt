@@ -1,0 +1,7 @@
+numpy>=1.21
+pandas>=1.3
+scikit-learn>=1.0
+torch>=1.12          # 建议根据你的 CUDA 版本从 https://pytorch.org 选择并安装合适的 wheel
+tqdm
+matplotlib
+seaborn
